@@ -1,0 +1,1278 @@
+
+
+Started GET "/" for 122.174.17.4 at 2015-11-16 09:03:22 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (186.2ms)
+Completed 200 OK in 5451ms (Views: 5440.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/custom.self-f690d023117c55d2c66ea1175615166cf95f7bbf354d83625b0f5b200be72496.css?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/turbolinks.self-680e388bf7f759d85e2dbe0044d33f55e12b26da721317111c01ec92e53df55e.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:28 +0000
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:29 +0000
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:30 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:30 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 122.174.17.4 at 2015-11-16 09:03:30 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 122.174.17.4 at 2015-11-16 09:03:30 +0000
+
+
+Started GET "/assets/email24-e793038d851816d8986b803f248fc4ff9678ed77781f281c0da3746ffa6df922.png" for 122.174.17.4 at 2015-11-16 09:03:30 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 122.174.17.4 at 2015-11-16 09:03:30 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 122.174.17.4 at 2015-11-16 09:03:31 +0000
+
+
+Started GET "/assets/github24-3d5204a1259d13b128a3227c2d618c3222f55b3f1007fdddf27441dd0e3db9fc.png" for 122.174.17.4 at 2015-11-16 09:03:31 +0000
+
+
+Started GET "/assets/carousel_large_01-972fe52e71590e0a0c9226409631fc1d95e3312b67b143aa2d4edc03bffd964f.jpg" for 122.174.17.4 at 2015-11-16 09:03:31 +0000
+
+
+Started GET "/assets/carousel_flipped_01-0691bad9b91e06fb808ef9b2da086083c1a87f84c1edee20209b409ae0bf64d2.jpg" for 122.174.17.4 at 2015-11-16 09:03:31 +0000
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff" for 122.174.17.4 at 2015-11-16 09:03:37 +0000
+
+
+Started GET "/" for 122.174.17.4 at 2015-11-16 09:03:40 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 247ms (Views: 245.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:01:15 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (225.2ms)
+Completed 200 OK in 684ms (Views: 672.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-f690d023117c55d2c66ea1175615166cf95f7bbf354d83625b0f5b200be72496.css?body=1" for 10.240.0.44 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 10.240.0.45 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/turbolinks.self-680e388bf7f759d85e2dbe0044d33f55e12b26da721317111c01ec92e53df55e.js?body=1" for 10.240.0.44 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 10.240.0.44 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:20 +0000
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 10.240.0.44 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 10.240.0.44 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 10.240.0.44 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 10.240.0.44 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/email24-e793038d851816d8986b803f248fc4ff9678ed77781f281c0da3746ffa6df922.png" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 10.240.0.45 at 2015-11-16 10:01:21 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 10.240.0.45 at 2015-11-16 10:01:22 +0000
+
+
+Started GET "/assets/github24-3d5204a1259d13b128a3227c2d618c3222f55b3f1007fdddf27441dd0e3db9fc.png" for 10.240.0.45 at 2015-11-16 10:01:23 +0000
+
+
+Started GET "/assets/carousel_large_01-972fe52e71590e0a0c9226409631fc1d95e3312b67b143aa2d4edc03bffd964f.jpg" for 10.240.0.45 at 2015-11-16 10:01:24 +0000
+
+
+Started GET "/assets/carousel_flipped_01-0691bad9b91e06fb808ef9b2da086083c1a87f84c1edee20209b409ae0bf64d2.jpg" for 10.240.0.44 at 2015-11-16 10:01:26 +0000
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff" for 10.240.0.45 at 2015-11-16 10:01:26 +0000
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:03:06 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 337ms (Views: 335.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 10.240.0.44 at 2015-11-16 10:03:07 +0000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 10.240.0.44 at 2015-11-16 10:03:07 +0000
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 10.240.0.45 at 2015-11-16 10:03:07 +0000
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:03:24 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 312ms (Views: 311.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:07:28 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 193ms (Views: 192.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:19:19 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 223ms (Views: 222.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:27:13 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 265ms (Views: 264.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:27:39 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 305ms (Views: 303.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:27:46 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 303ms (Views: 302.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:27:56 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 213ms (Views: 212.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:28:26 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 203ms (Views: 202.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:29:10 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 207ms (Views: 206.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:31:30 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.5ms)
+Completed 200 OK in 223ms (Views: 222.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:31:48 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 196ms (Views: 195.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:31:57 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 250ms (Views: 249.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:36:27 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 383ms (Views: 381.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:36:29 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 248ms (Views: 246.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 10:40:27 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.6ms)
+Completed 200 OK in 209ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:40:28 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 218ms (Views: 217.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:40:28 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 228ms (Views: 227.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 10:40:29 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.5ms)
+Completed 200 OK in 272ms (Views: 271.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 15:39:57 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 238ms (Views: 237.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 15:59:10 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 250ms (Views: 249.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 16:08:43 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 169ms (Views: 168.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 16:12:28 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 235ms (Views: 234.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 16:24:58 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 228ms (Views: 226.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 16:26:23 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 218ms (Views: 216.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 16:46:22 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 292ms (Views: 291.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 16:50:03 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 215ms (Views: 214.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 17:08:11 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 192ms (Views: 191.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 17:09:16 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 172ms (Views: 171.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 17:54:09 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 405ms (Views: 295.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 17:55:45 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 234ms (Views: 233.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 17:57:07 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 184ms (Views: 183.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 17:58:05 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 228ms (Views: 227.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:21:35 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (24.9ms)
+Completed 200 OK in 281ms (Views: 280.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/HarshalMediumColor-db4d2c96b9a11fb37df4065aefe4ab2794adbd20ebcdc8cb0f4237b369db2a34.jpg" for 10.240.0.44 at 2015-11-16 18:21:36 +0000
+
+
+Started GET "/assets/HarshalMediumFlipped-c45dc8c9e88a2545446cdf506d69d39a1967e9e2f7814be14ace1038ce242642.jpg" for 10.240.0.44 at 2015-11-16 18:21:36 +0000
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:25:13 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.5ms)
+Completed 200 OK in 191ms (Views: 189.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:25:16 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 175ms (Views: 174.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:25:18 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 251ms (Views: 250.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:25:19 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 249ms (Views: 248.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:25:58 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 261ms (Views: 260.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:34:35 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.7ms)
+Completed 200 OK in 324ms (Views: 322.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:39:56 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 211ms (Views: 210.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 18:41:01 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 191ms (Views: 189.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:41:59 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 179ms (Views: 177.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 18:57:27 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 217ms (Views: 216.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 18:59:19 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 198ms (Views: 196.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 19:00:45 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 227ms (Views: 226.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 19:10:22 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.6ms)
+Completed 200 OK in 230ms (Views: 229.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 19:13:45 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 311ms (Views: 309.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 19:14:19 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 206ms (Views: 205.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 19:20:01 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 217ms (Views: 216.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 19:24:06 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.6ms)
+Completed 200 OK in 191ms (Views: 189.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 19:24:45 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 192ms (Views: 191.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 19:36:14 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 271ms (Views: 269.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 19:41:24 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (13.3ms)
+Completed 200 OK in 258ms (Views: 256.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 19:54:52 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 192ms (Views: 190.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.44 at 2015-11-16 19:58:10 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 207ms (Views: 206.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 10.240.0.45 at 2015-11-16 19:58:29 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (17.3ms)
+Completed 200 OK in 191ms (Views: 190.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 07:59:13 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (204.6ms)
+Completed 200 OK in 616ms (Views: 603.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-f690d023117c55d2c66ea1175615166cf95f7bbf354d83625b0f5b200be72496.css?body=1" for 136.8.2.68 at 2015-11-19 07:59:14 +0000
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 136.8.2.68 at 2015-11-19 07:59:14 +0000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/turbolinks.self-680e388bf7f759d85e2dbe0044d33f55e12b26da721317111c01ec92e53df55e.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:15 +0000
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/email24-e793038d851816d8986b803f248fc4ff9678ed77781f281c0da3746ffa6df922.png" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/github24-3d5204a1259d13b128a3227c2d618c3222f55b3f1007fdddf27441dd0e3db9fc.png" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/HarshalMediumColor-db4d2c96b9a11fb37df4065aefe4ab2794adbd20ebcdc8cb0f4237b369db2a34.jpg" for 136.8.2.68 at 2015-11-19 07:59:16 +0000
+
+
+Started GET "/assets/HarshalMediumFlipped-c45dc8c9e88a2545446cdf506d69d39a1967e9e2f7814be14ace1038ce242642.jpg" for 136.8.2.68 at 2015-11-19 07:59:17 +0000
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 07:59:17 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 264ms (Views: 263.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff" for 136.8.2.68 at 2015-11-19 07:59:18 +0000
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 08:04:23 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 288ms (Views: 285.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 08:04:36 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 391ms (Views: 389.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 08:08:38 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 283ms (Views: 282.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 08:09:35 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.3ms)
+Completed 200 OK in 262ms (Views: 261.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 08:10:10 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 313ms (Views: 311.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 136.8.2.68 at 2015-11-19 08:13:32 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 333ms (Views: 329.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 182.65.175.27 at 2015-11-19 15:07:13 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (207.4ms)
+Completed 200 OK in 569ms (Views: 558.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-f690d023117c55d2c66ea1175615166cf95f7bbf354d83625b0f5b200be72496.css?body=1" for 182.65.175.27 at 2015-11-19 15:07:14 +0000
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 182.65.175.27 at 2015-11-19 15:07:14 +0000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 182.65.175.27 at 2015-11-19 15:07:15 +0000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:15 +0000
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:15 +0000
+
+
+Started GET "/assets/turbolinks.self-680e388bf7f759d85e2dbe0044d33f55e12b26da721317111c01ec92e53df55e.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:15 +0000
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:15 +0000
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:15 +0000
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:16 +0000
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:16 +0000
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:16 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:16 +0000
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:16 +0000
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:16 +0000
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/email24-e793038d851816d8986b803f248fc4ff9678ed77781f281c0da3746ffa6df922.png" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 182.65.175.27 at 2015-11-19 15:07:17 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 182.65.175.27 at 2015-11-19 15:07:18 +0000
+
+
+Started GET "/assets/github24-3d5204a1259d13b128a3227c2d618c3222f55b3f1007fdddf27441dd0e3db9fc.png" for 182.65.175.27 at 2015-11-19 15:07:18 +0000
+
+
+Started GET "/assets/HarshalMediumColor-db4d2c96b9a11fb37df4065aefe4ab2794adbd20ebcdc8cb0f4237b369db2a34.jpg" for 182.65.175.27 at 2015-11-19 15:07:18 +0000
+
+
+Started GET "/assets/HarshalMediumFlipped-c45dc8c9e88a2545446cdf506d69d39a1967e9e2f7814be14ace1038ce242642.jpg" for 182.65.175.27 at 2015-11-19 15:07:18 +0000
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff" for 182.65.175.27 at 2015-11-19 15:07:18 +0000
+
+
+Started GET "/" for 182.65.175.27 at 2015-11-19 15:07:21 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 193ms (Views: 192.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 182.65.175.27 at 2015-11-19 15:10:18 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 295ms (Views: 294.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 182.65.175.27 at 2015-11-19 15:14:19 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 244ms (Views: 243.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 182.65.175.27 at 2015-11-19 15:15:34 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 238ms (Views: 237.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-f690d023117c55d2c66ea1175615166cf95f7bbf354d83625b0f5b200be72496.css?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/turbolinks.self-680e388bf7f759d85e2dbe0044d33f55e12b26da721317111c01ec92e53df55e.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 182.65.175.27 at 2015-11-19 15:15:35 +0000
+
+
+Started GET "/assets/email24-e793038d851816d8986b803f248fc4ff9678ed77781f281c0da3746ffa6df922.png" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/assets/github24-3d5204a1259d13b128a3227c2d618c3222f55b3f1007fdddf27441dd0e3db9fc.png" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/assets/HarshalMediumColor-db4d2c96b9a11fb37df4065aefe4ab2794adbd20ebcdc8cb0f4237b369db2a34.jpg" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/assets/HarshalMediumFlipped-c45dc8c9e88a2545446cdf506d69d39a1967e9e2f7814be14ace1038ce242642.jpg" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff" for 182.65.175.27 at 2015-11-19 15:15:36 +0000
+
+
+Started GET "/" for 182.65.175.27 at 2015-11-19 15:26:04 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 2800ms (Views: 2799.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-490db84cd28cffad2aaa0096790320417c4d07d9b616ae829b9134c61bf9f2fe.css?body=1" for 182.65.175.27 at 2015-11-19 15:26:07 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:14:08 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (164.2ms)
+Completed 200 OK in 418ms (Views: 405.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:14:20 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 154ms (Views: 153.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:25:18 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.8ms)
+Completed 200 OK in 2171ms (Views: 2170.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-e4f48b05574e9554f2e47aaf8b8e7bbca0de0b0fb91513968ac46e66a636e8ab.css?body=1" for 122.178.78.181 at 2015-11-19 18:25:20 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:28:14 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 2031ms (Views: 2030.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-63260f8cb542079d98ae07a65c70aa4a05d5b21a3ec3ba2bf82230b9b9b33699.css?body=1" for 122.178.78.181 at 2015-11-19 18:28:17 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:29:02 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 1995ms (Views: 1994.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-3c895486bf329e031a18262ad448c172edec186945571e4399786dc4c7d1d9e5.css?body=1" for 122.178.78.181 at 2015-11-19 18:29:04 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:30:06 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 2147ms (Views: 2146.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-5b517ad4099ca73e235c23a25fb7efee923ef872af97dad102c8f53620e6de0e.css?body=1" for 122.178.78.181 at 2015-11-19 18:30:08 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:30:54 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 1752ms (Views: 1751.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-64329cb43b211cf12f1fd973aab7be2e8ed688ea878727e0943272a5de29f9ef.css?body=1" for 122.178.78.181 at 2015-11-19 18:30:56 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:32:14 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 2008ms (Views: 2007.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-045cf3b023a7e3a97902241ae05dd6a8361f12ab7edd64ced606e220cf3679e8.css?body=1" for 122.178.78.181 at 2015-11-19 18:32:16 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:32:40 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 2196ms (Views: 2195.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-3bfcaad8cbdf25d3ed582217a1fee3092297f1746601f91b8c3840861dc77e52.css?body=1" for 122.178.78.181 at 2015-11-19 18:32:43 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:36:02 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 2410ms (Views: 2408.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-fec5948798de8287081296cde921d8aa583beab93c72a84785c57d99d2d84e04.css?body=1" for 122.178.78.181 at 2015-11-19 18:36:05 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:36:26 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 2265ms (Views: 2264.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-3f7c2ce02f43ac962ae7ef3b47f3c901182bb76b0142dd6d60c9e4f1bbbfb094.css?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/turbolinks.self-680e388bf7f759d85e2dbe0044d33f55e12b26da721317111c01ec92e53df55e.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/affix.self-d2b642d8fbfc1d7041e2edefd66683ada567a980789dcd6f94fddda0b33408b5.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/alert.self-a29e91e8cd3ddaba9bbc466901d53ec2127e9256b9b941905d525a3a716bd1a5.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/button.self-a6cb16785434acb365ae426aef9f1fce05ed553cae7a965e4471c3da71509175.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/carousel.self-57eb8422043cf0a85b7a9dc6843916eb0a3e35b419c7798a5eb254b918997631.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/collapse.self-7dc8bfbc2fbfabd2bad62c58ff8ffeaf8f20fb87c7ca6cd35f06d4dc19632587.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/dropdown.self-9314126777c6be5443e37ea7f7967d7914d72b3e60449ba50edc967446373059.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/tab.self-122235057fbd4c6c7da377d59dc58f47b44cb1088a2e38e6ee6ce9d8ac29a26a.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/transition.self-09ff30b1e8a93d1f7728b9855f55d9c9d8d5734c8861e0d8139994e50944572a.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/scrollspy.self-a155b9d4b2f978905f0326c0f6635e1134fe91c6bfbfcbad079fa24a9fef2b0e.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/modal.self-72f95ffa1071297725a9ac91989693d56d1abf23f441a47455073b0da2857a5b.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/tooltip.self-11cf547be953f25f511cec668f6690473fd97b2f65502e4032f4030999a3f0c3.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap/popover.self-77d8e3a2499c1104ef146396a68b82469ee2bdb365199b874694698d10405e9a.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/static_pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 122.178.78.181 at 2015-11-19 18:36:29 +0000
+
+
+Started GET "/assets/email24-e793038d851816d8986b803f248fc4ff9678ed77781f281c0da3746ffa6df922.png" for 122.178.78.181 at 2015-11-19 18:36:30 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 122.178.78.181 at 2015-11-19 18:36:30 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 122.178.78.181 at 2015-11-19 18:36:30 +0000
+
+
+Started GET "/assets/github24-3d5204a1259d13b128a3227c2d618c3222f55b3f1007fdddf27441dd0e3db9fc.png" for 122.178.78.181 at 2015-11-19 18:36:30 +0000
+
+
+Started GET "/assets/HarshalMediumColor-db4d2c96b9a11fb37df4065aefe4ab2794adbd20ebcdc8cb0f4237b369db2a34.jpg" for 122.178.78.181 at 2015-11-19 18:36:30 +0000
+
+
+Started GET "/assets/HarshalMediumFlipped-c45dc8c9e88a2545446cdf506d69d39a1967e9e2f7814be14ace1038ce242642.jpg" for 122.178.78.181 at 2015-11-19 18:36:30 +0000
+
+
+Started GET "/assets/bootstrap/glyphicons-halflings-regular-fc969dc1c6ff531abcf368089dcbaf5775133b0626ff56b52301a059fc0f9e1e.woff" for 122.178.78.181 at 2015-11-19 18:36:39 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:36:54 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 2626ms (Views: 2625.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-fac66057a18ca42ccc923d7daa2722daab6a60b928f61e238573638c80e779b3.css?body=1" for 122.178.78.181 at 2015-11-19 18:36:57 +0000
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 18:53:48 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 2123ms (Views: 2122.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:01:17 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 202ms (Views: 201.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:01:22 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 164ms (Views: 163.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:01:55 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 161ms (Views: 160.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:05:08 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 148ms (Views: 148.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:06:25 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 152ms (Views: 151.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:06:46 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 146ms (Views: 145.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:06:47 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 178ms (Views: 177.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:08:04 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 355ms (Views: 344.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:09:10 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 533ms (Views: 520.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:12:05 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 405ms (Views: 392.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:13:50 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 187ms (Views: 186.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:19:51 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 161ms (Views: 160.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:23:14 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.3ms)
+Completed 200 OK in 248ms (Views: 247.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:30:25 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 225ms (Views: 224.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:31:30 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.9ms)
+Completed 200 OK in 218ms (Views: 217.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:33:55 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 278ms (Views: 277.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:36:21 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 223ms (Views: 221.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:37:44 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 179ms (Views: 178.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:41:55 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 195ms (Views: 194.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:41:57 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 197ms (Views: 196.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:41:59 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.9ms)
+Completed 200 OK in 227ms (Views: 225.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:42:00 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 189ms (Views: 188.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.178.78.181 at 2015-11-19 19:48:36 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (149.2ms)
+Completed 200 OK in 399ms (Views: 386.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 122.174.19.138 at 2015-11-24 15:20:21 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (208.9ms)
+Completed 200 OK in 804ms (Views: 775.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-490db84cd28cffad2aaa0096790320417c4d07d9b616ae829b9134c61bf9f2fe.css?body=1" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/static_pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/tooltip.self-488964bb14ebb5178c9f435603131ce4692ffc527de907eb0ec9c9ffde5f442d.js?body=1" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/application.self-f8806224e027f3e3f0138ea9ce99319e298dfdb323304d1f1be6eae8e8c74724.js?body=1" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/logo-09ab909ab48f0d069df1ba26fb34c5f5603db0bc0127239da3be769dea9b211b.png" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/phone24-c9f68dbc42fe5ebd7a658343eeb054d7dd492d0f8fd15fb2347d0d07af3b5716.png" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/linkedin24-04e9873256e7d57cdaa67a5c6ae49d17ed16b8dce278b2b77eed2ba52d6b0f38.png" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/HarshalMediumColor-db4d2c96b9a11fb37df4065aefe4ab2794adbd20ebcdc8cb0f4237b369db2a34.jpg" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/assets/HarshalMediumFlipped-c45dc8c9e88a2545446cdf506d69d39a1967e9e2f7814be14ace1038ce242642.jpg" for 122.174.19.138 at 2015-11-24 15:20:23 +0000
+
+
+Started GET "/" for 122.174.19.138 at 2015-11-24 15:20:27 +0000
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 376ms (Views: 375.1ms | ActiveRecord: 0.0ms)

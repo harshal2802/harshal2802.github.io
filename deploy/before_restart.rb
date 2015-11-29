@@ -1,0 +1,1 @@
+run "cd /srv/www/harshalkumarchourasiya/current && /user/local/bin/bundle exec rake assets:precompile"

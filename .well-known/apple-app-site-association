@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["NFUS5W8QC6.com.snappet.app", "NFUS5W8QC6.com.snappet.app.alpha"],
+        "components": [
+          { "/": "/Snappet/open/*", "comment": "Snappet universal links — snappet://<rest> as https://harshal2802.github.io/Snappet/open/<rest>" }
+        ]
+      }
+    ]
+  }
+}

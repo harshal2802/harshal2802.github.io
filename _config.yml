@@ -1,0 +1,3 @@
+# Jekyll skips dot-folders by default; Apple fetches /.well-known/apple-app-site-association
+# (Snappet universal links), so it must be published.
+include: [".well-known"]
